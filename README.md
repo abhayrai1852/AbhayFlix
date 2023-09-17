@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/113675029/228471409-305d925e-86d9-474e-9750-438488474729.png"  />
+  <img height="350" src="https://github.com/abhayrai1852/AbhayFlix/blob/main/public/HomePage_Trending.jpg"  />
 </div>
 
 ###
@@ -30,6 +30,10 @@
 ###
 
 <p align="left"></p>
+
+<div align="center">
+  <img height="350" src="https://github.com/abhayrai1852/AbhayFlix/blob/main/public/Filter_Sort.jpg"  />
+</div>
 
 ###
 
