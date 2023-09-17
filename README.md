@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/113675029/228471193-87bd86df-ba27-4969-aca9-34de241f1e6f.png"  />
+  <img height="350" src="https://github.com/abhayrai1852/AbhayFlix/blob/main/public/HomePage_SearchBar.jpg"  />
 </div>
 
 ###
