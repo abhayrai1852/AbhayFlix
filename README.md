@@ -1,4 +1,4 @@
-<h2 align="center">Tenzi Game
+<h2 align="center">AbhayFlix
 
 
 <p align="left"></p>
